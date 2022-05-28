@@ -1,0 +1,4 @@
+artifact_location: file:///home/jxfeng/code/fintech_qlib/examples/run_all_model_records/1
+experiment_id: '1'
+lifecycle_stage: active
+name: LightGBM

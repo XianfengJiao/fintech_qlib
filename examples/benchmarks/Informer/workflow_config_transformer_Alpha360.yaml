@@ -47,7 +47,7 @@ port_analysis_config: &port_analysis_config
 task:
     model:
         class: TransformerModel
-        module_path: qlib.contrib.model.pytorch_transformer
+        module_path: qlib_tools.contrib.model.pytorch_informer_ts
         kwargs:
             d_feat: 6
             seed: 0

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/jxfeng/code/fintech_qlib/examples/run_all_model_records/1/184c9b799e704ab59a04366991e1e20b/artifacts
+end_time: 1653762448646
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 184c9b799e704ab59a04366991e1e20b
+run_uuid: 184c9b799e704ab59a04366991e1e20b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653761908183
+status: 3
+tags: []
+user_id: jxfeng
